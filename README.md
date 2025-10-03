@@ -1,2 +1,2 @@
-# Job-App
-A Directory for Jobs that have been posted.
+# Poke
+A Clone of Poke while personalising it
